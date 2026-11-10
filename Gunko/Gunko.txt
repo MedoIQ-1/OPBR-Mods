@@ -1,0 +1,7 @@
+Mod: `Gunko`
+Character: `Winner Island Trafalgar Law`
+Description: `Replaces Law's model and textures with Gunko.`
+Gameplay: `none`
+Made by: `Miaka`
+Additional links: `none`
+Notes: `Gunko enters the battlefield, surrounded by intense red-and-black Haki effects.`
